@@ -4,6 +4,12 @@ resourceID <- 'kn79-hsxy'
 source('download-cdc-api-data/download.r')
 
 rb$formattedupdatedate <- as.Date(rb$data_as_of)
+rb$countyformatted <- gsub(
+  pattern = ' County',
+  replacement = '',
+  x = rb$county_name
+)
+
 
 o <- 'output'
 dir.create(o)
