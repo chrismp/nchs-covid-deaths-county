@@ -1,68 +1,59 @@
-"data_as_of","start_week","end_week","state_name","county_name","county_fips_code","urban_rural_code","total_death","footnote","covid_death","formattedupdatedate","countyformatted"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Alachua County","12001","Medium metro","7634",,"1197",2021-10-20,"Alachua"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Baker County","12003","Large fringe metro","337",,"17",2021-10-20,"Baker"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Bay County","12005","Small metro","4389",,"693",2021-10-20,"Bay"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Bradford County","12007","Noncore","334",,"15",2021-10-20,"Bradford"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Brevard County","12009","Medium metro","15500",,"1644",2021-10-20,"Brevard"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Broward County","12011","Large fringe metro","32724",,"4643",2021-10-20,"Broward"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Calhoun County","12013","Noncore","329",,"24",2021-10-20,"Calhoun"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Charlotte County","12015","Small metro","5891",,"572",2021-10-20,"Charlotte"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Citrus County","12017","Small metro","5646",,"665",2021-10-20,"Citrus"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Clay County","12019","Large fringe metro","4848",,"713",2021-10-20,"Clay"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Collier County","12021","Medium metro","7684",,"914",2021-10-20,"Collier"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Columbia County","12023","Micropolitan","2134",,"313",2021-10-20,"Columbia"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","DeSoto County","12027","Micropolitan","619",,"45",2021-10-20,"DeSoto"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Dixie County","12029","Noncore","217","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Dixie"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Duval County","12031","Large central metro","22011",,"3190",2021-10-20,"Duval"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Escambia County","12033","Medium metro","10107",,"1354",2021-10-20,"Escambia"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Flagler County","12035","Medium metro","2918",,"265",2021-10-20,"Flagler"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Franklin County","12037","Noncore","187","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Franklin"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Gadsden County","12039","Medium metro","591",,"26",2021-10-20,"Gadsden"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Gilchrist County","12041","Medium metro","258","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Gilchrist"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Glades County","12043","Noncore","125","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Glades"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Gulf County","12045","Small metro","275","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Gulf"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hamilton County","12047","Noncore","163","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Hamilton"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hardee County","12049","Micropolitan","293",,"13",2021-10-20,"Hardee"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hendry County","12051","Micropolitan","429",,"42",2021-10-20,"Hendry"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hernando County","12053","Large fringe metro","6103",,"821",2021-10-20,"Hernando"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Highlands County","12055","Small metro","3782",,"533",2021-10-20,"Highlands"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hillsborough County","12057","Large central metro","25733",,"2978",2021-10-20,"Hillsborough"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Holmes County","12059","Noncore","496",,"39",2021-10-20,"Holmes"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Indian River County","12061","Small metro","4491",,"444",2021-10-20,"Indian River"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Jackson County","12063","Noncore","1150",,"144",2021-10-20,"Jackson"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Jefferson County","12065","Medium metro","222","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Jefferson"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Lafayette County","12067","Noncore","109","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Lafayette"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Lake County","12069","Large fringe metro","8981",,"1095",2021-10-20,"Lake"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Lee County","12071","Medium metro","15868",,"1654",2021-10-20,"Lee"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Leon County","12073","Medium metro","6430",,"963",2021-10-20,"Leon"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Levy County","12075","Noncore","801",,"29",2021-10-20,"Levy"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Liberty County","12077","Noncore","69","One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.",,2021-10-20,"Liberty"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Madison County","12079","Noncore","332",,"22",2021-10-20,"Madison"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Manatee County","12081","Medium metro","9162",,"1076",2021-10-20,"Manatee"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Marion County","12083","Medium metro","11193",,"1549",2021-10-20,"Marion"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Martin County","12085","Medium metro","4246",,"580",2021-10-20,"Martin"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Miami-Dade County","12086","Large central metro","47108",,"7994",2021-10-20,"Miami-Dade"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Monroe County","12087","Micropolitan","1034",,"42",2021-10-20,"Monroe"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Nassau County","12089","Large fringe metro","1390",,"91",2021-10-20,"Nassau"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Okaloosa County","12091","Small metro","4150",,"524",2021-10-20,"Okaloosa"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Okeechobee County","12093","Micropolitan","876",,"106",2021-10-20,"Okeechobee"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Orange County","12095","Large central metro","21474",,"2616",2021-10-20,"Orange"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Osceola County","12097","Large fringe metro","5738",,"918",2021-10-20,"Osceola"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Palm Beach County","12099","Large fringe metro","32326",,"4162",2021-10-20,"Palm Beach"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Pasco County","12101","Large fringe metro","13098",,"1399",2021-10-20,"Pasco"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Pinellas County","12103","Large central metro","25745",,"2460",2021-10-20,"Pinellas"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Polk County","12105","Medium metro","15313",,"2108",2021-10-20,"Polk"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Putnam County","12107","Micropolitan","1846",,"240",2021-10-20,"Putnam"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","St. Johns County","12109","Large fringe metro","3465",,"231",2021-10-20,"St. Johns"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","St. Lucie County","12111","Medium metro","7018",,"718",2021-10-20,"St. Lucie"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Santa Rosa County","12113","Medium metro","2381",,"254",2021-10-20,"Santa Rosa"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Sarasota County","12115","Medium metro","12439",,"1401",2021-10-20,"Sarasota"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Seminole County","12117","Large fringe metro","6952",,"656",2021-10-20,"Seminole"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Sumter County","12119","Small metro","4646",,"444",2021-10-20,"Sumter"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Suwannee County","12121","Noncore","674",,"44",2021-10-20,"Suwannee"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Taylor County","12123","Noncore","353",,"26",2021-10-20,"Taylor"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Union County","12125","Noncore","226",,"32",2021-10-20,"Union"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Volusia County","12127","Medium metro","15520",,"1527",2021-10-20,"Volusia"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Wakulla County","12129","Medium metro","396",,"15",2021-10-20,"Wakulla"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Walton County","12131","Small metro","1340",,"152",2021-10-20,"Walton"
-"2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Washington County","12133","Noncore","538",,"63",2021-10-20,"Washington"
+"county_fips_code","data_as_of","start_week","end_week","state_name","county_name","urban_rural_code","total_death","footnote","covid_death","formattedupdatedate","countyformatted","X2020.Name","X2020.Longname","X2020.Total.Population","deathsper100k"
+"12001","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Alachua County","Medium metro","7634",,1197,2021-10-20,"Alachua","Alachua County","Alachua County, Florida",278468,429.851903988968
+"12003","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Baker County","Large fringe metro","337",,17,2021-10-20,"Baker","Baker County","Baker County, Florida",28259,60.1578258254008
+"12005","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Bay County","Small metro","4389",,693,2021-10-20,"Bay","Bay County","Bay County, Florida",175216,395.511825404073
+"12007","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Bradford County","Noncore","334",,15,2021-10-20,"Bradford","Bradford County","Bradford County, Florida",28303,52.997915415327
+"12009","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Brevard County","Medium metro","15500",,1644,2021-10-20,"Brevard","Brevard County","Brevard County, Florida",606612,271.013431979585
+"12011","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Broward County","Large fringe metro","32724",,4643,2021-10-20,"Broward","Broward County","Broward County, Florida",1944375,238.791385406622
+"12013","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Calhoun County","Noncore","329",,24,2021-10-20,"Calhoun","Calhoun County","Calhoun County, Florida",13648,175.849941383353
+"12015","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Charlotte County","Small metro","5891",,572,2021-10-20,"Charlotte","Charlotte County","Charlotte County, Florida",186847,306.132825252747
+"12017","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Citrus County","Small metro","5646",,665,2021-10-20,"Citrus","Citrus County","Citrus County, Florida",153843,432.258861306657
+"12019","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Clay County","Large fringe metro","4848",,713,2021-10-20,"Clay","Clay County","Clay County, Florida",218245,326.697060642855
+"12021","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Collier County","Medium metro","7684",,914,2021-10-20,"Collier","Collier County","Collier County, Florida",375752,243.245544933893
+"12023","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Columbia County","Micropolitan","2134",,313,2021-10-20,"Columbia","Columbia County","Columbia County, Florida",69698,449.080317943126
+"12027","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","DeSoto County","Micropolitan","619",,45,2021-10-20,"DeSoto","DeSoto County","DeSoto County, Florida",33976,132.446432776077
+"12031","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Duval County","Large central metro","22011",,3190,2021-10-20,"Duval","Duval County","Duval County, Florida",995567,320.420423738432
+"12033","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Escambia County","Medium metro","10107",,1354,2021-10-20,"Escambia","Escambia County","Escambia County, Florida",321905,420.620990664948
+"12035","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Flagler County","Medium metro","2918",,265,2021-10-20,"Flagler","Flagler County","Flagler County, Florida",115378,229.679834977205
+"12039","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Gadsden County","Medium metro","591",,26,2021-10-20,"Gadsden","Gadsden County","Gadsden County, Florida",43826,59.3255145347511
+"12049","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hardee County","Micropolitan","293",,13,2021-10-20,"Hardee","Hardee County","Hardee County, Florida",25327,51.3286216290915
+"12051","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hendry County","Micropolitan","429",,42,2021-10-20,"Hendry","Hendry County","Hendry County, Florida",39619,106.009742800172
+"12053","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hernando County","Large fringe metro","6103",,821,2021-10-20,"Hernando","Hernando County","Hernando County, Florida",194515,422.075418348199
+"12055","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Highlands County","Small metro","3782",,533,2021-10-20,"Highlands","Highlands County","Highlands County, Florida",101235,526.497752753494
+"12057","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Hillsborough County","Large central metro","25733",,2978,2021-10-20,"Hillsborough","Hillsborough County","Hillsborough County, Florida",1459762,204.005858489261
+"12059","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Holmes County","Noncore","496",,39,2021-10-20,"Holmes","Holmes County","Holmes County, Florida",19653,198.442985803694
+"12061","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Indian River County","Small metro","4491",,444,2021-10-20,"Indian River","Indian River County","Indian River County, Florida",159788,277.868175332315
+"12063","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Jackson County","Noncore","1150",,144,2021-10-20,"Jackson","Jackson County","Jackson County, Florida",47319,304.317504596462
+"12069","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Lake County","Large fringe metro","8981",,1095,2021-10-20,"Lake","Lake County","Lake County, Florida",383956,285.188927897988
+"12071","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Lee County","Medium metro","15868",,1654,2021-10-20,"Lee","Lee County","Lee County, Florida",760822,217.396447526491
+"12073","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Leon County","Medium metro","6430",,963,2021-10-20,"Leon","Leon County","Leon County, Florida",292198,329.571044291884
+"12075","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Levy County","Noncore","801",,29,2021-10-20,"Levy","Levy County","Levy County, Florida",42915,67.5754398229058
+"12079","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Madison County","Noncore","332",,22,2021-10-20,"Madison","Madison County","Madison County, Florida",17968,122.439893143366
+"12081","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Manatee County","Medium metro","9162",,1076,2021-10-20,"Manatee","Manatee County","Manatee County, Florida",399710,269.195166495709
+"12083","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Marion County","Medium metro","11193",,1549,2021-10-20,"Marion","Marion County","Marion County, Florida",375908,412.068910478096
+"12085","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Martin County","Medium metro","4246",,580,2021-10-20,"Martin","Martin County","Martin County, Florida",158431,366.089969766018
+"12086","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Miami-Dade County","Large central metro","47108",,7994,2021-10-20,"Miami-Dade","Miami-Dade County","Miami-Dade County, Florida",2701767,295.880436766013
+"12087","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Monroe County","Micropolitan","1034",,42,2021-10-20,"Monroe","Monroe County","Monroe County, Florida",82874,50.6793445471439
+"12089","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Nassau County","Large fringe metro","1390",,91,2021-10-20,"Nassau","Nassau County","Nassau County, Florida",90352,100.717194970781
+"12091","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Okaloosa County","Small metro","4150",,524,2021-10-20,"Okaloosa","Okaloosa County","Okaloosa County, Florida",211668,247.557495700814
+"12093","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Okeechobee County","Micropolitan","876",,106,2021-10-20,"Okeechobee","Okeechobee County","Okeechobee County, Florida",39644,267.379679144385
+"12095","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Orange County","Large central metro","21474",,2616,2021-10-20,"Orange","Orange County","Orange County, Florida",1429908,182.948833071778
+"12097","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Osceola County","Large fringe metro","5738",,918,2021-10-20,"Osceola","Osceola County","Osceola County, Florida",388656,236.198592071137
+"12099","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Palm Beach County","Large fringe metro","32326",,4162,2021-10-20,"Palm Beach","Palm Beach County","Palm Beach County, Florida",1492191,278.918717510024
+"12101","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Pasco County","Large fringe metro","13098",,1399,2021-10-20,"Pasco","Pasco County","Pasco County, Florida",561891,248.980674187698
+"12103","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Pinellas County","Large central metro","25745",,2460,2021-10-20,"Pinellas","Pinellas County","Pinellas County, Florida",959107,256.488587821797
+"12105","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Polk County","Medium metro","15313",,2108,2021-10-20,"Polk","Polk County","Polk County, Florida",725046,290.740173726908
+"12107","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Putnam County","Micropolitan","1846",,240,2021-10-20,"Putnam","Putnam County","Putnam County, Florida",73321,327.327777853548
+"12109","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","St. Johns County","Large fringe metro","3465",,231,2021-10-20,"St. Johns","St. Johns County","St. Johns County, Florida",273425,84.4838621194112
+"12111","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","St. Lucie County","Medium metro","7018",,718,2021-10-20,"St. Lucie","St. Lucie County","St. Lucie County, Florida",329226,218.087271357669
+"12113","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Santa Rosa County","Medium metro","2381",,254,2021-10-20,"Santa Rosa","Santa Rosa County","Santa Rosa County, Florida",188000,135.106382978723
+"12115","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Sarasota County","Medium metro","12439",,1401,2021-10-20,"Sarasota","Sarasota County","Sarasota County, Florida",434006,322.806597143818
+"12117","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Seminole County","Large fringe metro","6952",,656,2021-10-20,"Seminole","Seminole County","Seminole County, Florida",470856,139.320726506618
+"12119","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Sumter County","Small metro","4646",,444,2021-10-20,"Sumter","Sumter County","Sumter County, Florida",129752,342.19125716752
+"12121","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Suwannee County","Noncore","674",,44,2021-10-20,"Suwannee","Suwannee County","Suwannee County, Florida",43474,101.20991857202
+"12123","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Taylor County","Noncore","353",,26,2021-10-20,"Taylor","Taylor County","Taylor County, Florida",21796,119.287942741787
+"12125","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Union County","Noncore","226",,32,2021-10-20,"Union","Union County","Union County, Florida",16147,198.17922833963
+"12127","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Volusia County","Medium metro","15520",,1527,2021-10-20,"Volusia","Volusia County","Volusia County, Florida",553543,275.859328001619
+"12129","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Wakulla County","Medium metro","396",,15,2021-10-20,"Wakulla","Wakulla County","Wakulla County, Florida",33764,44.4260158748963
+"12131","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Walton County","Small metro","1340",,152,2021-10-20,"Walton","Walton County","Walton County, Florida",75305,201.845826970321
+"12133","2021-10-20T00:00:00.000","2020-01-01T00:00:00.000","2021-10-16T00:00:00.000","FL","Washington County","Noncore","538",,63,2021-10-20,"Washington","Washington County","Washington County, Florida",25318,248.834821075914
