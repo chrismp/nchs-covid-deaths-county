@@ -1,2 +1,2 @@
 #!/bin/bash
-Rscript deaths-by-county.r
+Rscript update-charts.r
